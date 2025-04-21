@@ -6,3 +6,5 @@ Simple TODO app created using
 * JSP
 * JDBC
 * MySQL
+* Hibernate
+* JPA
